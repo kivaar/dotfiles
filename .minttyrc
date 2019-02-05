@@ -1,0 +1,7 @@
+Term=xterm
+ThemeFile=xterm
+FontHeight=10
+FontSmoothing=default
+Columns=120
+Rows=30
+CtrlShiftShortcuts=yes
